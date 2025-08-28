@@ -1,5 +1,5 @@
 /* Example 1: Setting a solid background color */
-body {
+<body> {
 
   background-color: coral;
 }
@@ -7,3 +7,4 @@ h1 {
   text-align: center;
 
 }
+<body/>
